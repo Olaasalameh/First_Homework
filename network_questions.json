@@ -1,0 +1,82 @@
+[
+    {
+        "question": "TCP is a reliable, connection-oriented transport protocol?",
+        "answer": true
+    },
+    {
+        "question": "IPv6 uses 32 bits to represent IP addresses?",
+        "answer": false
+    },
+    {
+        "question": "ARP assigns IP addresses to MAC addresses?",
+        "answer": true
+    },
+    {
+        "question": "DHCP is a protocol for obtaining only IP addresses?",
+        "answer": false
+    },
+    {
+        "question": "FTP is a file transfer protocol?",
+        "answer": true
+    },
+    {
+        "question": "HTTP uses ports 80 and 443 for data transmission?",
+        "answer": true
+    },
+    {
+        "question": "OSI divides networks into seven layers?",
+        "answer": true
+    },
+    {
+        "question": "DNS uses port 53?",
+        "answer": true
+    },
+    {
+        "question": "SSH is used to secure network communications?",
+        "answer": true
+    },
+    {
+        "question": "Broadcast in networks targets a specific IP address?",
+        "answer": false
+    },
+    {
+        "question": "IPv4 uses 128 bits to represent addresses?",
+        "answer": false
+    },
+    {
+        "question": "VLAN divides the network into sections at the physical level?",
+        "answer": false
+    },
+    {
+        "question": "SMTP is a protocol for email transport?",
+        "answer": true
+    },
+    {
+        "question": "The TCP/IP model consists of five layers?",
+        "answer": false
+    },
+    {
+        "question": "Ping is used to check the availability of a device on the network only?",
+        "answer": false
+    },
+    {
+        "question": "NAT translates IP addresses from public to private range?",
+        "answer": true
+    },
+    {
+        "question": "FTP uses ports 20 and 21 for data transmission?",
+        "answer": true
+    },
+    {
+        "question": "HTTPS uses ports 80 and 443 for data transmission?",
+        "answer": false
+    },
+    {
+        "question": "MAC represents the device's address on the network uniquely?",
+        "answer": true
+    },
+    {
+        "question": "The OSI model consists of six layers?",
+        "answer": false
+    }
+]
